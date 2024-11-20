@@ -17,7 +17,6 @@ I'm **Abraz Shaik**, a Computer Science student at **VIT - AP University**, pass
 ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=artificialintelligence&logoColor=white) ![ML](https://img.shields.io/badge/ML-00C853?style=for-the-badge&logo=machinelearning&logoColor=white) ![DL](https://img.shields.io/badge/DL-0091EA?style=for-the-badge&logo=deep-learning&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-2962FF?style=for-the-badge&logo=algorithms&logoColor=white)
 
 🌟 **Achievements:**  
-- Amplified client engagement by **3.5x** during my internship at IDS Inc.  
 - Co-Head of **VITOPIA 2024**, achieving a **30% increase in event participation**.  
 - President of the Photography Club, leading to **80% growth in social media engagement**.  
 
