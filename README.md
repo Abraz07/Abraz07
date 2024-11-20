@@ -23,6 +23,7 @@ I'm **Abraz Shaik**, a Computer Science student at **VIT - AP University**, pass
 💡 **Fun Fact:** I love blending technology with creativity to solve real-world problems and engage audiences.  
 
 📬 Let's connect:  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrazshaik/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/abraz/)
 
