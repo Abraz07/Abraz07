@@ -1,29 +1,43 @@
-👋 **Hello, World!**  
-I'm **Abraz Shaik**, a Computer Science student at **VIT - AP University**, passionate about technology, problem-solving, and creative design.  
+# Abraz Shaik
 
-🔭 **What I'm working on:**  
-- **AI-driven Bird Species Classification** using deep learning and computer vision.  
-- Building innovative projects like a **Voice-Controlled Wheelchair** powered by **Raspberry Pi Pico**.
+I build things that actually ship — AI tools, local apps, data pipelines.
 
- 🎯 **Skills & Expertise**  
+`SRE Intern @ Standard Chartered GBS` &nbsp;·&nbsp; `Chennai, India` &nbsp;·&nbsp; `CS · VIT-AP · 8.61 CGPA`
 
-#### **Programming Languages**  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
 
-#### **Tools**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+## Projects
 
-#### **Interests**  
-![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=artificialintelligence&logoColor=white) ![ML](https://img.shields.io/badge/ML-00C853?style=for-the-badge&logo=machinelearning&logoColor=white) ![DL](https://img.shields.io/badge/DL-0091EA?style=for-the-badge&logo=deep-learning&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-2962FF?style=for-the-badge&logo=algorithms&logoColor=white)
+| | |
+|---|---|
+| **[Queryza](https://github.com/Abraz07/queryza)** | AI-powered CSV/Excel analysis — ask questions in plain English, get answers instantly. Built on Gemini 2.0 Flash + FastAPI, deployed on Render/Vercel. |
+| **[JobPilot](https://github.com/Abraz07/jobpilot)** | Autonomous job application agent — scores listings, writes cover letters, tracks applications. Claude API + React dashboard. |
+| **[MyTownly](https://github.com/Abraz07/mytownly)** | Hyperlocal super app for Piler, AP — groceries, home services, healthcare, auto booking. React Native + Expo + Supabase. |
+| **[Piler Guide](https://piler.in)** | Live local directory for Piler — 190+ listings, SEO-optimized, Google Search Console verified. |
 
-🌟 **Achievements:**  
-- Co-Head of **VITOPIA 2024**, achieving a **30% increase in event participation**.  
-- President of the Photography Club, leading to **80% growth in social media engagement**.  
+---
 
-💡 **Fun Fact:** I love blending technology with creativity to solve real-world problems and engage audiences.  
+## Stack
 
-📬 Let's connect:  
+**Languages** &nbsp; Python · SQL · JavaScript · Java
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrazshaik/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/abraz/)
+**Frameworks** &nbsp; FastAPI · React · React Native · Expo
 
+**Data & Cloud** &nbsp; SAP HANA Cloud · SAP BTP · Azure DevOps · Supabase · PostgreSQL
+
+**AI** &nbsp; Claude API · Gemini 2.0 Flash · LLM tool use & agents
+
+---
+
+## Currently
+
+SRE intern at Standard Chartered GBS — building metadata-driven data ingestion pipelines and stored procedure frameworks on SAP HANA Cloud + BTP (HDI containers, SQLScript, centralized logging).
+
+Open to full-time roles in **AI engineering**, **data engineering**, or **backend**.
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fabraz--shaik-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abraz-shaik)
+[![Email](https://img.shields.io/badge/Email-reach%20out-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abraz.shaik@email.com)
