@@ -36,11 +36,11 @@ Hey! I’m **Abraz**, a **Data Engineer** at **Standard Chartered GBS** (Chennai
 
 ### 🛠️ Featured Projects
 
-| Project | Description & Impact | Tech Stack | Links |
+| Project | Description & Impact | Tech Stack | Live Demo |
 | :--- | :--- | :--- | :---: |
-| 🔍 **Queryza** | AI-driven CSV & Excel analytics engine. Natural language querying with instant structured insights & visualizations. | `FastAPI` `Gemini 2.0` `Python` `Vercel` | [📦 Repo](https://github.com/Abraz07/queryza) |
-| 🎵 **Aanati Paatalu** | Curated golden-era Telugu music streaming web platform with rich catalog discovery and seamless playback. | `React` `JavaScript` `Audio API` `Vercel` | [📦 Repo](https://github.com/Abraz07/aanatipaatalu) |
-| 🌉 **BridgeChat** | End-to-end encrypted, bilingual real-time chat with automated bidirectional English ⇄ Indonesian translation. | `Supabase` `Claude API` `WebSockets` `Next.js` | [📦 Repo](https://github.com/Abraz07/bridge-chat) |
+| 🔍 **Queryza** | AI-driven CSV & Excel analytics engine. Natural language querying with instant structured insights & visualizations. | `FastAPI` `Gemini 2.0` `Python` `Vercel` | [🌐 Live App](https://queryza.vercel.app) |
+| 🎵 **Aanati Paatalu** | Curated golden-era Telugu music streaming web platform with rich catalog discovery and seamless playback. | `React` `JavaScript` `Audio API` `Web` | [🌐 Live App](https://aanatipaatalu.com) |
+| 🌉 **BridgeChat** | End-to-end encrypted, bilingual real-time chat with automated bidirectional English ⇄ Indonesian translation. | `Supabase` `Claude API` `WebSockets` `Next.js` | [🌐 Live App](https://www.bridgechat.online/) |
 | 🗺️ **Piler Guide** | Community-first hyperlocal discovery platform featuring 190+ verified listings with dynamic SEO & Google indexing. | `React` `Node.js` `SEO` `Production` | [🌐 Live Site](https://piler.in) |
 
 ---
