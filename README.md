@@ -2,7 +2,7 @@
 
 <!-- Typing SVG Header -->
 <a href="https://linkedin.com/in/abraz-shaik">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abraz+Shaik+%F0%9F%91%8B;Building+AI+Systems+%26+Scalable+Pipelines;SRE+Intern+%40+Standard+Chartered+GBS;Open+for+Full-time+AI+%2F+Data+%2F+Backend+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abraz+Shaik+%F0%9F%91%8B;Building+AI+Systems+%26+Scalable+Pipelines;Data+Intern+%40+Standard+Chartered+GBS;Open+for+Full-time+AI+%2F+Data+%2F+Backend+Roles" alt="Typing SVG" />
 </a>
 
 <p align="center">
